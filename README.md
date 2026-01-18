@@ -2,6 +2,7 @@
 
 A simple and smart study planner built using Streamlit.
 
+Students struggle to manage study time and stay consistent. The AI Study Planner helps them plan, track, and optimize their learning in a personalized way.
 This app helps students allocate study time based on subject difficulty, chapters, and days left. It also shows a visual time distribution chart and a calendar view.
 
 ---
