@@ -5,6 +5,8 @@ A simple and smart study planner built using Streamlit.
 This app helps students allocate study time based on subject difficulty, chapters, and days left. It also shows a visual time distribution chart and a calendar view.
 
 ---
+## Live App
+https://my-study-planner-c365nxuralkxft8mjktr4a.streamlit.app/
 
 ## Features
 
