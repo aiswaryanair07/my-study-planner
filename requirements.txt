@@ -1,2 +1,2 @@
-streamlit==version 1.28.0
-pandas==version 2.2.0
+streamlit
+pandas
